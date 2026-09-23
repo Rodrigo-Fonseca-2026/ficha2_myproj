@@ -1,1 +1,8 @@
-Ficheiro 1.
+Eliminei a primeira linha e escrevi esta.
+
+
+
+
+
+
+Fiz uma alteração dentro do fichero.
