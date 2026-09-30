@@ -11,14 +11,9 @@ Fiz uma alteração dentro do fichero.
 
 Alterações efetuadas no branch NovaFeature.
 
-
-<<<<<<< HEAD
-
 Alteração no branch MASTER.
 
 alteração no branch NOVAFEATURE.
 
 nova
-=======
 MAster
->>>>>>> master
