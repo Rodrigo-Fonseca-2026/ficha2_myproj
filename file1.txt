@@ -15,4 +15,6 @@ Alterações efetuadas no branch NovaFeature.
 
 Alteração no branch MASTER.
 
-alteração no branch NOVAFEATURE
+alteração no branch NOVAFEATURE.
+
+nova
